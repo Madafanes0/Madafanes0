@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Diego Cisneros
 
-I’m a **Computer Science and Technology student** at Tecnológico de Monterrey, passionate about software development, AI solutions, and web technologies. I enjoy building real-world projects, learning new frameworks, and tackling challenges through code.
+I’m a **Computer Science and Technology student** at Tecnológico de Monterrey, with a background in **cybersecurity** from the **University of Sydney**. I’m passionate about offensive security, secure software development, AI solutions, and web technologies. I enjoy building real-world projects, learning new frameworks, and tackling challenges through code.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-cisneros-fajardo/)
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Madafanes0)
@@ -9,7 +9,9 @@ I’m a **Computer Science and Technology student** at Tecnológico de Monterrey
 
 ## 👨‍💻 About Me
 
-- 🎓 CS student @ Tecnológico de Monterrey (2022-2026)
+- 🎓 CS student @ Tecnológico de Monterrey (2022–2026)
+- 🔐 Cybersecurity studies @ University of Sydney
+- 🛡️ Interested in offensive security, penetration testing, and secure architecture
 - 🚀 Passionate about AI, web apps, and cloud-based solutions
 - 💡 Fan of open-source and community-driven projects
 - 🌱 Currently working on AI tools platforms and generative AI integrations
@@ -46,10 +48,15 @@ I’m a **Computer Science and Technology student** at Tecnológico de Monterrey
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madafanes0&show_icons=true&theme=prussian&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madafanes0&layout=compact&theme=prussian)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Madafanes0&theme=prussian&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madafanes0&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
