@@ -43,7 +43,7 @@ I’m a **Computer Science and Technology student** at Tecnológico de Monterrey
 - 🔍 **[WAIM](https://github.com/Madafanes0/WAIM2.0)** — Web platform to search AI tools by category  
 - 🤖 **[ConversIA](https://github.com/Madafanes0/ConversIA)** — Generative AI chatbot for WhatsApp using FastAPI, LangChain, and PostgreSQL  
 - 📝 **[Credit Verification System](https://github.com/v3gaaa/CreditEye)** — OCR-powered credit prequalification system with Tesseract, FastAPI, and ChatGPT  
-- 🌐 **[Soca Exchange](https://socaexchange.com)** — React-based web app for seamless clothing exchanges  
+- 🏛️ **[Arcanum](https://www.arcanum.company/)** — AI operating systems for manufacturing, enterprise, and bespoke institutional workflows  
 - 🏠 **[Yo Rento](https://yorento.com)** — Web platform for renting properties, built with Vue.js and Node.js  
 
 ---
